@@ -29,8 +29,12 @@ body {
 }
 
 iframe {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     width: 600px;
+}
+
+.spotify {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
 }
